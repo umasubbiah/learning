@@ -1,3 +1,5 @@
 pwd
 print "hello world"
 mkdir hwo
+pwd
+cd hwo
